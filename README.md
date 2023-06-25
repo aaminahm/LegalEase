@@ -1,0 +1,2 @@
+# LegalEase
+Code for LegalEASe
